@@ -6,4 +6,5 @@ dist/
 tsconfig.tsbuildinfo
 
 # variables
+.env
 .npmrc

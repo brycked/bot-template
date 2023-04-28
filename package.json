@@ -1,17 +1,17 @@
 {
-  "name": "@bricked/ts-template",
+  "name": "@bricked/bot-template",
   "private": false,
-  "description": "A template for typescript projects.",
+  "description": "A template for Discord.JS bots.",
   "keywords": [
-    "ts-template"
+    "bot-template"
   ],
-  "homepage": "https://github.com/brycked/ts-template#readme",
+  "homepage": "https://github.com/brycked/bot-template#readme",
   "bugs": {
-    "url": "https://github.com/brycked/ts-template/issues"
+    "url": "https://github.com/brycked/bot-template/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brycked/ts-template.git"
+    "url": "git+https://github.com/brycked/bot-template.git"
   },
   "license": "MIT",
   "author": "Bricked",

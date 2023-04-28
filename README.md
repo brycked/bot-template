@@ -15,16 +15,6 @@ A template for Discord.JS bots.
 - [ ] Remove `"dryRun": true` from the [`package.json`](./package.json)
 - [ ] Remove this section
 
-## Installation
-
-[Node.js](https://nodejs.org/) 16.14.0 or newer is required.
-
-```sh
-npm install @bricked/bot-template
-yarn add @bricked/bot-template
-pnpm add @bricked/bot-template
-```
-
 ## Usage
 
 `bot-template` can be used as a template for Discord.JS bots.

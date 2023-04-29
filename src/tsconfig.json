@@ -2,7 +2,6 @@
   "extends": ["../tsconfig.json", "@bricked/ts-config/decorators"],
   "compilerOptions": {
     "rootDir": ".",
-    "outDir": "../dist",
-    "types": ["node", "./global.d.ts"]
+    "outDir": "../dist"
   }
 }

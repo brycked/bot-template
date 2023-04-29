@@ -11,5 +11,5 @@ tsconfig.tsbuildinfo
 .vscode/
 .husky/
 .*ignore
-.*rc
+.*rc.*
 tsconfig.json

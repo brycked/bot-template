@@ -13,6 +13,7 @@ A template for Discord.JS bots.
 - [ ] Find & replace the description with a proper one
 - [ ] Add `NPM_TOKEN` as a [new repository secret](https://github.com/brycked/bot-template/settings/secrets/actions/new)
 - [ ] Add your bot [`TOKEN`](https://discordjs.guide/preparations/setting-up-a-bot-application.html#your-bot-s-token) as [environment variable](./.env)
+- [ ] Add your [`MONGO_URI`](https://www.mongodb.com/docs/manual/reference/connection-string/) as [environment variable](./.env)
 - [ ] Remove `"dryRun": true` from the [`package.json`](./package.json)
 - [ ] Remove this section
 

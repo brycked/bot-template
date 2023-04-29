@@ -59,7 +59,6 @@
     "@bricked/ts-config": "^1.2.3",
     "@bricked/tsup-config": "^1.0.0",
     "@commitlint/config-conventional": "^17.6.1",
-    "@sapphire/cli": "^1.6.0",
     "@types/node": "^18.16.2",
     "@typescript-eslint/eslint-plugin": "^5.59.1",
     "commitlint": "^17.6.1",
@@ -73,6 +72,9 @@
     "sort-package-json": "^2.4.1",
     "tsup": "^6.7.0",
     "typescript": "^5.0.4"
+  },
+  "optionalDependencies": {
+    "@sapphire/cli": "^1.6.0"
   },
   "publishConfig": {
     "access": "public"

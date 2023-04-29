@@ -1,5 +1,5 @@
 import { Client } from "./client";
-import { config } from "dotenv";
+import "dotenv/config";
 
 const client = new Client({
   baseUserDirectory: __dirname,
@@ -9,5 +9,4 @@ const client = new Client({
   color: "Blurple", // insert an accent color
 });
 
-config();
 client.login(process.env.TOKEN);

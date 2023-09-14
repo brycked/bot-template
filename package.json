@@ -1,6 +1,6 @@
 {
   "name": "@bricked/bot-template",
-  "private": false,
+  "private": true,
   "description": "A template for Discord.JS bots.",
   "keywords": [
     "bot-template"

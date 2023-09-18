@@ -54,7 +54,7 @@
   },
   "devDependencies": {
     "@bricked/eslint-config": "^1.0.0",
-    "@bricked/prettier-config": "^1.0.0",
+    "@bricked/prettier-config": "^1.0.1",
     "@bricked/semantic-release-config": "^1.1.0",
     "@bricked/ts-config": "^1.2.3",
     "@bricked/tsup-config": "^1.0.0",

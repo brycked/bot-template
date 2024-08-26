@@ -1,4 +1,4 @@
-# bot-template
+# discord-bot-template
 
 [![license](https://custom-icon-badges.demolab.com/github/license/brycked/bot-template?logo=law)](LICENSE.md)
 [![semantic-release: angular](https://img.shields.io/badge/semantic--release-angular-e10079?logo=semantic-release)](https://github.com/semantic-release/semantic-release)
